@@ -1,0 +1,5 @@
+{
+  "name": "Wavelength game",
+  "description": "A minimalist web-based version of the Wavelength board game featuring a semi-circle dial, randomized target areas, and a rotatable needle for guessing.",
+  "requestFramePermissions": []
+}
